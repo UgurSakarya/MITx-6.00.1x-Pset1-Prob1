@@ -16,3 +16,6 @@ for i in s:
     if i=="a" or i=="e" or i=="i" or i=="u" or i=="o":        # Conditions
         count += 1                                            # This is where magic happens.
 print("Number of vowels: ", str(count))                       # Printing count AS string
+
+
+

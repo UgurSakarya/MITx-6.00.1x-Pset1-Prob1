@@ -12,3 +12,4 @@ for i in range(len(s)):
     if s[i:i+3] == var:       # Search by Index. i is every single element is s. it is "i+3" because we have "bob" with 3 letters
         count +=1
 print(count)
+

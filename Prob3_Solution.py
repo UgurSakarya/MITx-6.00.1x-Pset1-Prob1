@@ -21,3 +21,5 @@ for i in range(len(s)):
  if len(current) > len(longest):            # if current bigger than 0 :D just put it in longest. 
   longest = current
 print("Longest substring in alphabetical order is: " + longest)
+
+
